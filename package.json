@@ -1,0 +1,22 @@
+{
+  "name": "databraryupload",
+  "version": "1.0.0",
+  "description": "Upload OPF files to databrary volumes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Reda Nezzar. PhD",
+  "license": "MIT",
+  "dependencies": {
+    "config": "^3.2.2",
+    "js-yaml": "^3.13.1",
+    "lodash": "^4.17.15",
+    "log4js": "^5.1.0",
+    "puppeteer": "^1.20.0",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.7",
+    "yargs": "^14.0.0",
+    "yarn": "^1.17.3"
+  }
+}
